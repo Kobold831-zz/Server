@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>2</versionCode>
-  <versionName>1.0.1-CTabLabo-Kobold-Release</versionName>
-  <url></url>
-  <description>不具合の修正をおこないました
+  <versionCode>3</versionCode>
+  <versionName>1.2.0</versionName>
+  <url>https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.2.0/app-release_1.2.0.apk</url>
+  <description>機能の追加をおこないました
 安定性の向上をおこないました
 詳しい情報は、Wikiより確認してください</description>
 </update>
