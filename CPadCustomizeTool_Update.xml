@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>31</versionCode>
-  <versionName>1.5.1</versionName>
-  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.5.1/app-release_1.5.1.apk</url>
-  <description>様々な改善をおこないました
+  <versionCode>32</versionCode>
+  <versionName>1.5.2</versionName>
+  <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.5.2/app-release_1.5.2.apk</url>
+  <description>様々な改善と不具合の修正をおこないました
 安定性の向上をおこないました
 詳しい情報は、Wikiより確認してください</description>
 </update>
