@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>4</versionCode>
-  <versionName>1.2.1</versionName>
-  <url>https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.2.1/app-release_1.2.1.apk</url>
-  <description>チャレンジパッドNEXTに対応しました
+  <versionCode>5</versionCode>
+  <versionName>1.2.2</versionName>
+  <url>https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.2.2/app-release_1.2.2.apk</url>
+  <description>DeviceOwner関連の改善をおこないました
+    翻訳の改善・不具合の修正を行いました
 詳しい情報は、Wikiより確認してください</description>
 </update>
