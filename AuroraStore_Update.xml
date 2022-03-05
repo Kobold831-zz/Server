@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update>
-  <versionCode>6</versionCode>
-  <versionName>1.2.3</versionName>
-  <url>https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.2.3/app-release_1.2.3.apk</url>
-  <description>匿名セッションをリクエストできない問題を解決しました
-  不具合の修正をおこないました</description>
+  <versionCode>7</versionCode>
+  <versionName>1.2.4</versionName>
+  <url>https://github.com/Kobold831/AuroraStore4/releases/download/Ver.1.2.4/app-release_1.2.4.apk</url>
+  <description>AIDL関連の不具合の修正・改善をおこないました
+    AIDLを使用してインストールをすると、適切なインストール結果処理が行われない問題を解決しました
+    通知の改善をおこないました
+    CPad Customize ToolにDeviceOwnerを設定している場合、CPad Customize Toolを最新バージョンに更新してください</description>
 </update>
