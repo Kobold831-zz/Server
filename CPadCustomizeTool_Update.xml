@@ -4,10 +4,10 @@
   <versionName>1.5.6</versionName>
   <url>https://github.com/Kobold831/CPadCustomizeTool/releases/download/Ver.1.5.6/app-release_1.5.6.apk</url>
   <description>AIDL関連の不具合修正・改善をおこないました
-Aurora Storeのインストール結果を適切に返せない問題を解決しました
-Device Ownerでのサイレントインストール機能において、以下を解決しました
-・XAPK,xapkのインストールに対応しました
-・ダウンロードからファイルを選択したときにクラッシュする問題を解決しました
-・apkのインストール機能の不安定を解決しました
-・インストール結果が適切に処理されていなかった問題を解決しました</description>
+    Aurora Storeのインストール結果を適切に返せない問題を解決しました
+    Device Ownerでのサイレントインストール機能において、以下を解決しました
+    ・XAPK,xapkのインストールに対応しました
+    ・ダウンロードからファイルを選択したときにクラッシュする問題を解決しました
+    ・apkのインストール機能の不安定を解決しました
+    ・インストール結果が適切に処理されていなかった問題を解決しました</description>
 </update>
